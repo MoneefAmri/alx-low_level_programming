@@ -2,15 +2,11 @@
 
 /**
  * main - print _putchar
- *
- *   * is written by mbah
- *
- *    * Return: 0
- *
- *     */
+ * is written by moneef
+ * Return: 0
+ */
 
-
-int main(void)	
+int main(void)
 {
 _putchar('_');
 _putchar('p');
