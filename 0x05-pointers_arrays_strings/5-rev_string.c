@@ -8,7 +8,7 @@
  *
  *    * Return: String in reverse
  *
- *     */
+ */
 
 void rev_string(char *s)
 {
