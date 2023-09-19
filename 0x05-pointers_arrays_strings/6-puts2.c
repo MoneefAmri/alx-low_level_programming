@@ -10,7 +10,7 @@
  *
  *     * Return: print
  *
- *      */
+ */
 
 void puts2(char *str)
 {
