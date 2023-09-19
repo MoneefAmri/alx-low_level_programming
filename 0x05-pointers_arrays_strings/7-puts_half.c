@@ -10,7 +10,7 @@
  *
  *     * Return: half of input
  *
- *      */
+ */
 
 void puts_half(char *str)
 {
