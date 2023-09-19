@@ -8,7 +8,7 @@
  *
  *    * return: 0
  *
- *     */
+ */
 
 void print_rev(char *s)
 {
