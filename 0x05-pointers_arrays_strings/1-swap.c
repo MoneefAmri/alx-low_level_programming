@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
+ * swap_int - swaps the values of two integers
  *
- *  * swap_int - swaps the values of two integers
+ * @a: integer to swap
  *
- *   * @a: integer to swap
- *
- *    * @b: integer to swap
+ * @b: integer to swap
  *
  */
 
