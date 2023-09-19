@@ -10,7 +10,7 @@
  *
  *     * Return: a and n inputs
  *
- *      */
+ */
 
 void print_array(int *a, int n)
 {
